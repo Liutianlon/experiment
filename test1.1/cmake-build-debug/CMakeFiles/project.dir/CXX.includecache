@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/CODE/c++/project/./Source/DFA.h
+public.h
+F:/CODE/c++/project/./Source/public.h
+
+F:/CODE/c++/project/./Source/public.h
+iostream
+-
+string
+-
+stdio.h
+-
+
+F:/CODE/c++/project/Source/DFA.cpp
+DFA.h
+F:/CODE/c++/project/Source/DFA.h
+
+F:/CODE/c++/project/Source/DFA.h
+public.h
+F:/CODE/c++/project/Source/public.h
+
+F:/CODE/c++/project/Source/public.h
+iostream
+-
+string
+-
+stdio.h
+-
+
+F:/CODE/c++/project/main.cpp
+main.h
+F:/CODE/c++/project/main.h
+
+F:/CODE/c++/project/main.h
+./Source/public.h
+F:/CODE/c++/project/./Source/public.h
+./Source/DFA.h
+F:/CODE/c++/project/./Source/DFA.h
+
